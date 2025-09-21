@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/elizavetakovalenko/Desktop/adhd_bot/bot_full_text.py", line 4, in <module>
+    from aiogram import Bot, Dispatcher, types
+ModuleNotFoundError: No module named 'aiogram'
